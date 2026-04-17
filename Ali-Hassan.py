@@ -1,0 +1,4 @@
+feed = "I am Ali Hassan, a software developer with a passion for creating innovative solutions. I have experience in various programming languages and enjoy working on challenging projects. In my free time, I like to explore new technologies and contribute to open-source projects."
+Feed = "I am so Happy this Environment of Akhuwat and i also feel this amazing movement in ISSB"
+print(feed)
+print(Feed)
