@@ -1,2 +1,5 @@
-Drop your feedback
-one by one
+<<<<<<< HEAD
+learning ai generative skill in faisalabad
+=======
+learning ai generative in akhuwat faisalabad pakisatan
+>>>>>>> main
